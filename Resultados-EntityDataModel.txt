@@ -1,0 +1,13 @@
+﻿No se pudo analizar el archivo de configuración. El mensaje de error es: 'No se admite la palabra clave 'data source'.'. Pruebe a editar el archivo manualmente y, a continuación, a guardarlo.
+No se admite la palabra clave 'data source'.
+No se admite la palabra clave 'data source'.
+No se admite la palabra clave 'data source'.
+No se admite la palabra clave 'data source'.
+No se admite la palabra clave 'data source'.
+No se admite la palabra clave 'data source'.
+No se admite la palabra clave 'data source'.
+No se admite la palabra clave 'data source'.
+No se admite la palabra clave 'data source'.
+No se admite la palabra clave 'data source'.
+No se admite la palabra clave 'data source'.
+No se admite la palabra clave 'data source'.
